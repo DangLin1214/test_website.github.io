@@ -1,6 +1,6 @@
 /* 设置团队成员部分的透明背景 */
 #team-members {
-    background-color: rgba(255, 255, 255, 0.65); /* 黑色背景，70% 不透明度 */
+    background-color: rgba(0, 0, 0, 0.3); /* 黑色背景，70% 不透明度 */
     padding: 40px 20px;
     border-radius: 10px; /* 可选：添加圆角 */
 }
@@ -30,7 +30,7 @@
 
 /* 标题和描述文字颜色设置为白色 */
 #team-members h2 {
-    color: #333333; /* 浅黑色 */
+    color: white; /* 浅黑色 */
 }
 
 /* 贡献者名字和 ID 文字颜色 */
